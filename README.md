@@ -1,6 +1,6 @@
 # KinectPictureBrowser
 
-An image viewer that can be navigated with hand gestures using Kinect.
+An image viewer that can be navigated with hand gestures extracted from Kinect depth maps.
 
 Supported hand gestures:
 - left/right - previous/next picture
