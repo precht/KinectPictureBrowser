@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>KinectViewerWindow.qml</file>
+        <file>PictureBrowserWindow.qml</file>
+        <file>MenuPage.qml</file>
+        <file>PicturesPage.qml</file>
+        <file>Shortcuts.qml</file>
+        <file>qtquickcontrols2.conf</file>
+    </qresource>
+</RCC>
