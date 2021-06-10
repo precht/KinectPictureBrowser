@@ -14,7 +14,7 @@ The Kinect depth map is converted into binary image using certain threshold to f
 Then, the biggest object in the image is detected using OpenCV library. 
 Finally, previous object positions are used to estimate movement direction and determine if it was significant enough to trigger the gesture.
 
-Apart from main application, an additional window can be opened to display current hand position (pink),  hand path (orange), and detected direction (green).
+Apart from main application, an additional window can be opened to display current hand position (pink), hand movement path (orange), and detected movement direction (green).
 
 ![alt text](imgs/screen1.png)
 
